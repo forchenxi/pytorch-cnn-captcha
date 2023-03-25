@@ -1,1 +1,1 @@
-# pytorch-cnn-captcha
+这个项目是利用cnn实现简单的字符验证码识别，使用的是pytorch。
